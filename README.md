@@ -18,20 +18,14 @@ Nesse desafio você irá incrementar a aplicação feita no desafio anterior.
 >**Atenção**<br>
 > Essa será apenas a modelagem do banco de dados, portanto não requer nenhum código.
 
-<br> 
+A aplicação deve ter uma tabela de gêneros (`genres`) para que cada jogo possa ter um ou mais gênero e, além disso, uma tabela `orders` deve existir para que um usuário consiga comprar um ou mais jogos na mesma compra.
 
-Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes) 👋.
-
-# Desafio - Modelagem do banco de dados
-
-
-Desafio 02 do capítulo III da trilha NodeJS do bootcamp Ignite, da Rocketseat.
-
-## O desafio: Modelagem do banco de dados
-
-O objetivo desse desafio é criar a modelagem do banco de dados da aplicação do [desafio anterior](https://github.com/nataliafonseca/ignite-node-c3-d01).
-
+*Um extra seria colocar as cardinalidades entre as entidades mas não tome isso como obrigatório.*
 
 # Diagrama
 
 ![Diagrama](diagrama.png)
+
+<br> 
+
+Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes) 👋.
