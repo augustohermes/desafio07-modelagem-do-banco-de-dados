@@ -22,7 +22,7 @@ A aplicação deve ter uma tabela de gêneros (`genres`) para que cada jogo poss
 
 *Um extra seria colocar as cardinalidades entre as entidades mas não tome isso como obrigatório.*
 
-# Diagrama
+## ✍🏼 Diagrama
 
 ![Diagrama](diagrama.png)
 
