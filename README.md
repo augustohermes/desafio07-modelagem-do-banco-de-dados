@@ -24,7 +24,7 @@ A aplicação deve ter uma tabela de gêneros (`genres`) para que cada jogo poss
 
 ## ✍🏼 Diagrama
 
-![Diagrama](diagrama.png)
+<img align="center" alt="Diagrama" width="90%" src="./.github/diagrama.png">
 
 <br> 
 
