@@ -15,7 +15,7 @@
 
 Nesse desafio você irá incrementar a aplicação feita no desafio anterior.
 
->**Nota**<br><br>
+>**Atenção**<br>
 > Essa será apenas a modelagem do banco de dados, portanto não requer nenhum código.
 
 <br> 
